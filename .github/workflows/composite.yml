@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   
 env:
-  ACR-NAME: glencontainerregistry
+  ACR-NAME: jacobcontainerregistry
 
 jobs:
   main:  
