@@ -3,7 +3,7 @@ name: Repository Environment Variables Example
 on:
   push:
     paths:
-      - '.github/workflows/repo-env-var.yml'
+      - '.github/workflows/repo-env-vars.yml'
   workflow_dispatch:
  
 env:
